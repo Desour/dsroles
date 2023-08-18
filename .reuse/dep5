@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: dsroles
 Upstream-Contact: DS <>
-Source: 
+Source: https://codeberg.org/Desour/dsroles
 
 # Sample paragraph, commented out:
 #
