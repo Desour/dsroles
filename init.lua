@@ -1,3 +1,6 @@
+-- SPDX-FileCopyrightText: 2023 DS
+--
+-- SPDX-License-Identifier: Apache-2.0
 
 local sett_do_register = minetest.settings:get_bool("secure.dsroles.do_register", true)
 local sett_init_default = minetest.settings:get_bool("secure.dsroles.init_default", true)
